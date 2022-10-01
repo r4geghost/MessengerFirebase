@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174751735618",
+    "project_id": "messenger-1ead6",
+    "storage_bucket": "messenger-1ead6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174751735618:android:19330fb8a883a4e067f2db",
+        "android_client_info": {
+          "package_name": "com.diusov.messengerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174751735618-6034lmuks443v7r6ecjmpg9b28r34rbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMFnjoz4f_jBOK9lN6e9uLAIK3SRXbh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174751735618-6034lmuks443v7r6ecjmpg9b28r34rbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

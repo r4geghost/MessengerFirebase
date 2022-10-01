@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MessengerFirebase</string>
+    <string name="messenger_logo">Messenger</string>
+    <string name="your_email_hint">Your email</string>
+    <string name="your_password_hint">Your password</string>
+    <string name="forgot_password_label">Forgot password?</string>
+    <string name="register_label">Register</string>
+    <string name="login_button">Login</string>
+    <string name="messenger_label">Messenger</string>
+    <string name="your_name_hint">Your name</string>
+    <string name="your_last_name_hint">Your last name</string>
+    <string name="age_hint">How old are you?</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="registration_label">Registration</string>
+    <string name="reset_password_button">Reset password</string>
+    <string name="logout_menu">Logout</string>
+    <string name="hello_user_label">Hello, user!</string>
+    <string name="reset_link_success">Reset password link was successfully sent to your email</string>
+    <string name="type_your_message_hint">Type your message</string>
+</resources>
